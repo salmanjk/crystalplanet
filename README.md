@@ -1,2 +1,2 @@
 # crystalplanet
-Test repo for Kubernetes solutions 
+Test repo for Kubernetes solutions via AWS/EKS 
