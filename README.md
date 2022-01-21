@@ -1,2 +1,2 @@
 # crystalplanet
-Test repo for Azure
+Test repo for Kubernetes solutions 
